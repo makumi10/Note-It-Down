@@ -5,3 +5,7 @@ Note It Down is a digital notebook app that lets you easily capture notes, ideas
 * HITML
 * CSS
 * Vanilla JS
+
+
+##### NB:
+App is still under development
